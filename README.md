@@ -6,6 +6,7 @@ You can pull this repo as eclipse project and deploy it as one of the versions o
 
 # Read Endpoint
 List of all entities of a kind - GET https://endpoints.myproject.appspot.com/entity/kind
+
 Read of an entity for the list - GET https://endpoints.myproject.appspot.com/entity/kind/id
 
 # Update Endpoint
